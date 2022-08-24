@@ -1,0 +1,43 @@
+
+
+{ "The Shawshank Redemption": {
+  "name" : "The Shawshank Redemption",
+  "country": "usa",
+  "year": "1994",
+  "studio": "Columbia Pictures",
+  "director": "Frank Darabont",
+  "characters": "Morgan Freeman" },
+
+  "The Godfather" : {
+    "name" : "The Godfather",
+    "country": "usa",
+    "year": "1972",
+    "studio": "Paramount Pictures",
+    "director": "Francis Ford Coppola",
+    "characters": "Al Pacino"
+  },
+   "A Space Odyssey":{
+     "name" : "A Space Odyssey",
+     "country": "usa",
+     "year": "1972",
+     "studio": "Paramount Pictures",
+     "director": "Stanley Kubrick",
+     "characters": "Keir Dullea"
+   },
+   "Seven" : {
+     "name" : "Seven",
+     "country": "usa",
+     "year": "1995",
+     "studio": "Arnold Kopelson Productions",
+     "director": "David Fincher",
+     "characters": "Morgan Freeman"
+   },
+  "The Silence of the Lambs" : {
+    "name" : "The Silence of the Lambs",
+    "country": "usa",
+    "year": "1991 ",
+    "studio": "Strong Heart Productions",
+    "director": "Ted Tally",
+    "characters": "Anthony Hopkins"
+  }
+}
